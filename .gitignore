@@ -1,0 +1,22 @@
+# IntelliJ project files
+*.iml
+.idea
+*/*.iml
+*/target
+target/
+out
+logs
+.idea
+*.iml
+out
+gen
+.idea/
+Solution.iml
+
+# Package Files #
+*.jar
+*.war
+*.ear
+*.zip
+*.tar.gz
+*.rar
